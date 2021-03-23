@@ -19,7 +19,7 @@ https://studio.youtube.com/channel/UCXRfr_S6DiMi5MBes_HCEMQ/editing/images
 
 
 
-![profile pic](https://user-images.githubusercontent.com/42091327/112199621-2b6fd400-8c30-11eb-93bd-fa68b1620f26.png)
+![profile picgh](https://user-images.githubusercontent.com/42091327/112202743-88b95480-8c33-11eb-9191-8e73ba0969a3.png)
 
 <!---
 Economy21/Economy21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
