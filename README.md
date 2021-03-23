@@ -1,5 +1,3 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
-
 
 - 👋 Hi, I’m Ammar Jamshed
 - 👀 I’m interested in alot of things including science, Data, food and travelling and reading books and especially accumalating more and more knowledge
