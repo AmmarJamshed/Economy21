@@ -8,23 +8,16 @@ frameworks of governance.
 - Connect with me on linkedln for professional projects and networking
  
  
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/goto-resumemuhammad-ammar-jamshed-029280145/"
 
 
-- check my youtube channel for information on data and its importance
-
-
-
-[[params.social]]
-    icon = "youtube"
-    icon_pack = "fa"
-    link = "https://www.youtube.com/channel/UCXRfr_S6DiMi5MBes_HCEMQ"
-
-
-
+<p>
+  <a href="https://www.linkedin.com/in/goto-resumemuhammad-ammar-jamshed-029280145/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Youtube
+  </a>
+</p>
 
 
 
