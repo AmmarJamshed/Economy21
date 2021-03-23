@@ -6,6 +6,7 @@
 frameworks of governance.
 - 📫 my email is ammarjamshed123@gmail.com 
 - Connect with me on linkedln for professional projects and networking
+- Follow my youtube channel for information of importance of data and technology and its future implications
  
  
 
