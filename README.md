@@ -1,3 +1,6 @@
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+
 - 👋 Hi, I’m Ammar Jamshed
 - 👀 I’m interested in alot of things including science, Data, food and travelling and reading books and especially accumalating more and more knowledge
 - 🌱 I’m currently learning Big Data Analytics from Institute of Business Administration(IBA) Karachi and ive done over 100 certifications in variouse fields of IT, Social sciences, Technology
@@ -5,19 +8,15 @@
 - You are always welcome to reach me out on collaboration of projects related to any field involving the use Data Scientific insights and Machine Learning Algorithms and modelling
 frameworks of governance.
 - 📫 my email is ammarjamshed123@gmail.com 
-- Connect with me on linkedln for professional projects and networking
 - Follow my youtube channel for information of importance of data and technology and its future implications
- 
+https://studio.youtube.com/channel/UCXRfr_S6DiMi5MBes_HCEMQ/editing/images 
  
 
-
+- Connect with me on linkedln for professional projects and networking
 <p>
   <a href="https://www.linkedin.com/in/goto-resumemuhammad-ammar-jamshed-029280145/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Youtube
-  </a>
 </p>
 
 
